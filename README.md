@@ -1,7 +1,5 @@
 # 📱 Sorgu Uygulaması
 
-Bu program ile SMS mesajlarını hızlı bir şekilde belirlediğiniz numaralara gönderebilirsiniz. Birden fazla numaraya aynı anda veya tek bir numaraya SMS gönderme seçeneğiniz bulunuyor.
-
 ## ⚠️ Güvenlik Uyarısı
 
 Bu programın kötü niyetli kullanımı yasaktır ve yasa dışı olabilir. Bu programı yasal ve etik sınırlar içinde kullanın. Programın kullanımından doğacak sorumluluklar size aittir.
